@@ -1089,3 +1089,5 @@ https://wordpress.org/wordpress-mu-1.2.1.zip
 https://wordpress.org/wordpress-mu-1.2.zip
 https://wordpress.org/wordpress-mu-1.1.1.zip
 https://wordpress.org/wordpress-mu-1.0.zip
+https://wordpress.org/wordpress-5.1-beta3.zip
+https://wordpress.org/wordpress-5.1-beta3-IIS.zip
