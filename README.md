@@ -22,4 +22,4 @@ git clone https://github.com/JavierOlmedo/UltimateCMSWordlists.git
 This project is licensed under the [MIT license](LICENSE).
 
 ### Reference
-[Hackpuntes Blog](https://hackpuntes.com/ultimate-cms-wordlists/)
+[Hackpuntes Blog](https://hackpuntes.com/)
